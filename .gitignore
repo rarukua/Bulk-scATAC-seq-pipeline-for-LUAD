@@ -1,0 +1,45 @@
+# Data — never commit raw sequencing data
+data/
+*.fastq.gz
+*.fastq
+*.bam
+*.bai
+*.cram
+*.vcf.gz
+*.vcf
+*.idat
+*.bigWig
+*.bw
+*.bedGraph
+
+# Large reference files
+*.fa
+*.fasta
+*.fai
+*.dict
+*.wig
+*.bt2
+*.bt2l
+
+# Nextflow runtime
+work/
+.nextflow/
+.nextflow.log*
+
+# Results (keep folder structure, not outputs)
+results/*
+!results/.gitkeep
+
+# R artifacts
+*.Rhistory
+*.RData
+*.rds
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

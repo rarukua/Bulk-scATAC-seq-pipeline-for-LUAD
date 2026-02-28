@@ -1,0 +1,3 @@
+sample,fastq_r1,fastq_r2,fastq_r3,condition
+LUAD_scATAC_01,data/sc_01_R1.fastq.gz,data/sc_01_R2.fastq.gz,data/sc_01_R3.fastq.gz,Tumor
+LUAD_scATAC_02,data/sc_02_R1.fastq.gz,data/sc_02_R2.fastq.gz,data/sc_02_R3.fastq.gz,Tumor

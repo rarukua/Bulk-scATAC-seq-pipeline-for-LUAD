@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,condition,tissue,donor
+LUAD_T01,data/LUAD_T01_R1.fastq.gz,data/LUAD_T01_R2.fastq.gz,Tumor,Lung,D01
+LUAD_T02,data/LUAD_T02_R1.fastq.gz,data/LUAD_T02_R2.fastq.gz,Tumor,Lung,D02
+LUAD_T03,data/LUAD_T03_R1.fastq.gz,data/LUAD_T03_R2.fastq.gz,Tumor,Lung,D03
+LUAD_N01,data/LUAD_N01_R1.fastq.gz,data/LUAD_N01_R2.fastq.gz,Normal,Lung,D01
+LUAD_N02,data/LUAD_N02_R1.fastq.gz,data/LUAD_N02_R2.fastq.gz,Normal,Lung,D02
+LUAD_N03,data/LUAD_N03_R1.fastq.gz,data/LUAD_N03_R2.fastq.gz,Normal,Lung,D03
