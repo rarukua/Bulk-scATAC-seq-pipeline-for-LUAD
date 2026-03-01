@@ -124,7 +124,7 @@ atac-luad-pipeline/
 
 | Assay | Dataset | Source | Samples |
 |-------|---------|--------|---------|
-| Bulk ATAC | TCGA-LUAD ATAC-seq | GDC / Corces et al. 2018 *Nat Genet* | ~110 tumor + paired normal |
+| Bulk ATAC | TCGA-LUAD ATAC-seq | GDC / Corces et al. 2018 *Science* | ~110 tumor + paired normal |
 | scATAC | 10x Genomics LUAD | 10x public datasets | ~8,000 cells, LUAD tumor |
 | RNA-seq (integration) | TCGA-LUAD RNA-seq | GDC | Matched to ATAC samples |
 
