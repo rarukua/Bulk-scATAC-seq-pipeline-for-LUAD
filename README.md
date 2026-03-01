@@ -172,8 +172,8 @@ Rscript -e "rmarkdown::render('downstream/notebooks/scATAC_Report.Rmd')"
 ## References
 
 1. Buenrostro JD et al. (2015) ATAC-seq. *Nat Methods* — Original ATAC-seq method
-2. Corces MR et al. (2018) TCGA ATAC-seq pan-cancer. *Nat Genet* 50:1271 — Dataset used
-3. Granja JM et al. (2021) ArchR. *Nat Genet* 53:403 — scATAC analysis framework
-4. Bentsen M et al. (2020) TOBIAS. *Nat Commun* 11:4537 — TF footprinting
+2. Corces MR et al. (2018) TCGA ATAC-seq pan-cancer. *Science* — Dataset used
+3. Granja JM et al. (2021) ArchR. *Nat Genet* — scATAC analysis framework
+4. Bentsen M et al. (2020) TOBIAS. *Nat Commun* — TF footprinting
 5. Zhang Y et al. (2008) MACS. *Genome Biol* — Peak calling
 6. Ross-Innes CS et al. (2012) DiffBind. *Nature* — Differential binding/accessibility
